@@ -1,0 +1,34 @@
+1. Information We Collect
+1.1. User Information: The Bot may collect Discord user IDs, usernames, and other publicly available Discord profile data to provide its functionality. 
+1.2. Server Information: The Bot may collect server IDs, channel IDs, and server names for configuration and operational purposes. 
+1.3. Activity Data: The Bot may log commands or interactions to improve functionality, analyze usage patterns, or troubleshoot issues. 
+1.4. Message Content: The Bot may process message content only if explicitly required for its features (e.g., command handling). If MESSAGE_CONTENT intent is enabled, the content will be temporarily processed but not stored.
+
+2. How We Use Your Information
+2.1. To provide and improve the Bot's features and functionality. 
+2.2. To analyze usage patterns for debugging, performance improvements, and support. 
+2.3. To ensure the Bot complies with Discord's Terms of Service and Community Guidelines.
+
+3. Data Retention
+We store your data only as long as it is necessary for the Bot's operation. User-specific data, such as activity logs, may be periodically purged to ensure privacy.
+
+4. Data Sharing
+We do not sell, trade, or rent your personal data to third parties. The data collected by the Bot will only be shared if required by law, or for operational purposes (e.g., storing logs on a secure server).
+
+5. Your Rights
+As a user, you have the following rights regarding your data: 
+5.1. The right to request access to your data collected by the Bot. 
+5.2. The right to request deletion of your data. 
+5.3. The right to request clarification on how your data is used.
+
+6. Data Security
+We take reasonable measures to protect your data from unauthorized access, misuse, or disclosure. However, no system can guarantee absolute security.
+
+7. Third-Party Services
+The Bot may use third-party services (e.g., hosting or analytics platforms) to function. These services are subject to their own privacy policies.
+
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on https://github.com/marcich03/TimeCountBoT. Continued use of the Bot constitutes acceptance of the updated policy.
+
+9. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at https://github.com/marcich03/TimeCountBoT.
